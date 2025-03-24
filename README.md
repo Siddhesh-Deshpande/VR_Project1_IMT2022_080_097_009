@@ -26,10 +26,11 @@ To run the project you need follwing python libraries:
 - Scikit-image (skimage.feature)
 - torch
 - torchvision
+- matplotlib
 
 Make sure all these are present on your system or else install them using following command: 
 ```bash
-pip install opencv-python numpy scikit-learn scikit-image tensorflow torch torchvision
+pip install opencv-python numpy scikit-learn scikit-image tensorflow torch torchvision matplotlib
 ```
 
 ## To Run Program
@@ -48,8 +49,7 @@ pip install opencv-python numpy scikit-learn scikit-image tensorflow torch torch
 | -                     |   -               |    -               |  -                 |  -              |
 | SUPPORT VECTOR MACHINE|   0.93            |       0.95         |       0.94         |    0.94         |
 | RANDOM FOREST         |   0.92            |       0.89         |       0.86         |    0.94         | 
-| NEURAL NETWORK        |   0.90            |       0.94         |       0.93         |    0.92          |
-| CONVOLUTION NEURAL NETWORK |              |                    |                    |                 |
+| NEURAL NETWORK        |   0.90            |       0.94         |       0.93         |    0.92         |
 
 
 ## Task-3 & 4 : Region Segmentation Using Traditional Techniques & Mask Segmentation Using U-Net
@@ -75,3 +75,5 @@ pip install opencv-python numpy tensorflow matplotlib
 - Now, run the notebook to obtain the results for both tasks.
 
 ## Results
+
+- IOU for Task-3 : ```0.528```
