@@ -76,4 +76,4 @@ pip install opencv-python numpy tensorflow matplotlib
 
 ## Results
 
-- IOU for Task-3 : ```0.528```
+- IOU for Task-3 : ```0.475```
