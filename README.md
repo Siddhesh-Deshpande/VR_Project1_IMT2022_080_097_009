@@ -77,3 +77,6 @@ pip install opencv-python numpy tensorflow matplotlib
 ## Results
 
 - IOU for Task-3 : ```0.475```
+- IOU for Task-4 : ```0.5892```
+- Dice Score for Task-4 : ```0.6472```
+- Accuracy Task-4 : ```0.8446```
