@@ -12,7 +12,7 @@ Team Member:
 - Madhav Girdhar: IMT2022009
 - Krish Patel: IMT2022097
 
-## Task-1 & 2 : Binray Classification using Handcarft Feature and ML classifier & Binray Classification using CNN.
+## Task-1 & 2 : Binary Classification using Handcarft Feature and ML classifier & Binary Classification using CNN.
 
 This section focuses on classifying face mask usage in images using machine learning classifiers. Feature extraction is performed using Histogram of Oriented Gradients (HOG), which captures important edge and texture details. The extracted features are then used to train various classifiers, including Support Vector Machine (SVM), Random Forest, and Neural Network, to accurately distinguish between masked and unmasked faces.Additionally, a Convolutional Neural Network (CNN) is used for automatic feature extraction and classification. 
 
